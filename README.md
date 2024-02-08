@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DSA with Java
 - 💞️ I’m looking to collaborate on web Development Projects
 - 📫 How to reach me bgopi1690@gmail.com
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: 🙂😶🫥
 
 <!---
